@@ -8,4 +8,4 @@ In prewious works of data in the [folder][1] of repository
 
 
 
-[1]:(https://github.com/RexTor78/Sql-to-Python/tree/main/pre-data)
+[1]:https://github.com/RexTor78/Sql-to-Python/tree/main/pre-data
