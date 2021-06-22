@@ -11,7 +11,7 @@ We check our ***correlation data**
 
 At same time we test and train whit our data to test our __accuracy__:
 
-<img src="https://github.com/RexTor78/Sql-to-Python/blob/1d43a3275dc0fb2cad665ff575466ff8c90ae3d0/pre-data/images/22-06-2021%2023-23-16.jpg" width="240" height="140"/>    <img src="hhttps://github.com/RexTor78/Sql-to-Python/blob/1d43a3275dc0fb2cad665ff575466ff8c90ae3d0/pre-data/images/22-06-2021%2023-22-59.jpg" width="240" height="140"/>
+<img src="https://github.com/RexTor78/Sql-to-Python/blob/1d43a3275dc0fb2cad665ff575466ff8c90ae3d0/pre-data/images/22-06-2021%2023-23-16.jpg" width="240" height="140"/>         <img src="https://github.com/RexTor78/Sql-to-Python/blob/1d43a3275dc0fb2cad665ff575466ff8c90ae3d0/pre-data/images/22-06-2021%2023-22-59.jpg" width="240" height="140"/>
 
 But we can see that our data isn't a good data to explore.
 
